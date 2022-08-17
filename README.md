@@ -2,6 +2,12 @@ Bem-vindo ao meu perfil!
 
 <hr>
 
+🏡 Redes
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jean44alva2@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-oliveira-22195314b/)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2143locndydgvv77xgm2uwh2i?si=d37e401d648045ad)
+
 🛠️ Habilidades
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -39,10 +45,10 @@ Bem-vindo ao meu perfil!
 
 📀 SOs que já usei
 
-[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-[![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]()
 [![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+[![](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)]()
 [![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
 
 <hr>
@@ -52,9 +58,5 @@ Bem-vindo ao meu perfil!
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanDevJR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
